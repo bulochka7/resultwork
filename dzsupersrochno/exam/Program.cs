@@ -15,8 +15,6 @@ void FindArray(string[] array)
         {
             Console.Write(array[i]+" ");
         } 
-    else
-    Console.WriteLine("0");
 }
 Console.WriteLine("Введите 5 значений через enter ");
 string[] array=Array();
